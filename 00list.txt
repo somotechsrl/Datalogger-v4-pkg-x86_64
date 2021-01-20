@@ -72,7 +72,7 @@ data|050|netserial-default|Generico|NetSerial|COnnettore TCP per porta seriale||
 data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-default
 data|050|raspi-backup|Raspberry|Backup|Datalogger Config Backup||iif/raspi/backup|
 data|050|raspi|Raspberry|Diagnostic|Datalogger Disagnostics||iif/raspi/default|
-data|050|refusol-default|Refusol|Refusol|||iif/refusol/default|
+data|050|refusol-default|Refusol|Inverters|Refusol Inverters||iif/refusol/default|
 data|050|renu-gwy00b|RENU|gwy00b|RENU Gateway Interface||iif/renu/gwy00b|modbus-default
 data|050|schuco-ipe|Schuco|IPEXX|Schuo IPEXX Inverters||iif/schuco/ipe|modbus-default
 data|050|seneca-s604|Seneca|S604|ELECTRICAL MEASUREMENT||iif/seneca/s604|modbus-default

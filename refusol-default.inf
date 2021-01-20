@@ -1,6 +1,5 @@
 FIRM='Refusol'
-MODEL='Refusol'
+MODEL='Inverters'
 PROTO='Refusol'
-DESCR=''
-
+DESCR='Refusol Inverters'
 MODULE='refusol-default'
