@@ -6,6 +6,7 @@ data|000|aasync-modbus-sniffer|Modbus|Sniffer|Sniffer with Circular FIFO for Pas
 data|000|aasync-modbustcp-gateway|Modbus|Gateway|Gateway Modbus rtu => TCP||iif/aasync/modbustcp-gateway||true
 data|000|aasync-ttyUSB|Datalogger|ttyUSB|USB/TTY Service Scanner (Names by USB port)||iif/aasync/ttyUSB||true
 data|050|abb-pro33|ABB|ABB Pro|ABB Pro Series Inverter||iif/abb/pro33|modbus-default|true
+data|050|abb-pvsxxx|ABB|ABB PVS Sunspec|ABB PVS Series Inverter||iif/abb/pvsxxx|modbus-default|true
 data|050|algo2-upm209|Algo2|UPM209|ELECTRICAL MEASUREMENT||iif/algo2/upm209|modbus-default|true
 data|050|aros-default|AROS|Inverters|AROS Inverters||iif/aros/default|modbus-default|true
 data|050|astrid-array|Astrid|Array Monitor|Astrif Array Monitor Stringbox||iif/astrid/array|modbus-default|true
@@ -31,6 +32,7 @@ data|050|contrel-ems-96|Contrel|EMS-96|ELECTRICAL MEASUREMENT SUPERVISOR EMS-96|
 data|050|contrel-ems-96-pulse|Contrel|EMS-96-PULSE|ELECTRICAL MEASUREMENT SUPERVISOR EMS-96 PULSE ONLY||iif/contrel/ems-96-pulse|modbus-default|true
 data|050|contrel-ems|Contrel|EMS|ELECTRICAL MEASUREMENT SUPERVISOR||iif/contrel/ems|modbus-default|true
 data|050|contrel-ems-time|Contrel|EMS|RTC System Time Source from EMS||iif/contrel/ems-time|modbus-default|true
+data|050|contrel-emu-8it|Contrel|EMU-8it|Temperature Transducer||iif/contrel/emu-2it|modbus-default|true
 data|050|contrel-emu-8di|Contrel|EMU-8di|Transducer||iif/contrel/emu-8di|modbus-default|true
 data|050|contrel-isobase|Contrel|ISOBASE|ISOBASE RTX poller ||iif/contrel/isobase|modbus-default|true
 data|050|contrel-isobase-redis|Contrel|ISOBASE|ISOBASE RTX poller bnas on Redis DB||iif/contrel/isobase-redis||true
@@ -61,6 +63,7 @@ data|050|ingburo-sirs485|IngBuro|Si-RS485|IngBuro Si RS485 Irradiance Sensor||ii
 data|050|ingecon-sunxxtl|Ingecon|SunXXTL|Ingecon SunXXTL Invereters||iif/ingecon/sunxxtl|modbus-default|true
 data|050|ingeteam-sunpower|Ingeteam|Sunpower|Ingeteam Sunpower Inverters||iif/ingeteam/sunpower|modbus-default|true
 data|050|ingeteam-sunstring|Ingeteam|IngeCon SunString|Ingeteam Ingecon SunString Control||iif/ingeteam/sunstring|modbus-default|true
+data|050|itron-sl7000|Itron|SL7000|ELECTRICAL METER||iif/itron/sl7000||true
 data|050|kako-ppl|KAKO|PPL Datalogger|KAKO PPL Datalogger||iif/kako/ppl||true
 data|050|kernel-st1|Kernel|ST1|Kernel ST1 Stringbox||iif/kernel/st1|modbus-default|true
 data|050|kernel-st21625|Kernel|ST21625|Kernel ST2 1625 Stringbox||iif/kernel/st21625|modbus-default|true
@@ -112,6 +115,7 @@ data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermana
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync to Somotech HUB||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
 data|999|zzsync-sync-ftp|Enermanager|FTP|Sync via FTP||iif/zzsync/ftp||true
+data|999|zzsync-local-api-mqtt|local|api|MQTT local api publish (v4/lastdata)||iif/zzsync/local-api-mqtt||true
 data|999|zzsync-localdb-export|Enermanager|LocalDB Export|Export LocalDB (CSV/XLS)||iif/zzsync/localdb-export||true
 data|999|zzsync-localdb-save|Enermanager|LocalDB Save|Save to local DB||iif/zzsync/localdb-save||true
 data|999|zzsync-mqtt|Enermanager|MQTT|Sync via plain MQTT||iif/zzsync/mqtt||true
