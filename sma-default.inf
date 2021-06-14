@@ -2,5 +2,4 @@ FIRM='SMA'
 MODEL='SMA'
 PROTO='SMA'
 DESCR='SMANet SMA Inverters'
-
 MODULE='sma-default'
