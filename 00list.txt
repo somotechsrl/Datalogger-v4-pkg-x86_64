@@ -91,6 +91,7 @@ data|050|siemens-OZW672|Siemens|OZW672|Siemens OZW672 Web Interface||iif/siemens
 data|050|siemens-s7-sinvert|Siemens|S7 Sinvert|Siemens S7 Sinvert||iif/siemens/s7-sinvert||true
 data|050|siemens-web-sinvert|Siemens|Weblog Sinvert|Siemens Weblog Sinvert||iif/siemens/web-sinvert||true
 data|050|sma-default|SMA|SMA|SMANet SMA Inverters||iif/sma/default||true
+data|050|sma-sunspec|SMA|Sunspec|SMA Series Inverter w Suspec||iif/sma/sunspec|modbus-default|true
 data|050|socomec-countis|Socomec|Countis|Socomec Countis Energy Meter||iif/socomec/countis|modbus-default|true
 data|050|socomec-default|Socomec|Socomec|Socomec Inverters||iif/socomec/default|modbus-default|true
 data|050|solaredge-sunspec|Solardge|Sunspec|Solaredge Suspec Registers||iif/solaredge/sunspec|modbus-default|true
@@ -100,6 +101,7 @@ data|050|sunaway-tgxx|Sunaway|TGXX|Sunaway TGXX Inverters||iif/sunaway/tgxx|modb
 data|050|sunguard-sensor|Sunguard|Sensor|Sunguard Sensor Box||iif/sunguard/sensor|modbus-default|true
 data|050|sunguard-stringbox|Sunguard|Stringbox|Sunguard Stringbox||iif/sunguard/stringbox|modbus-default|true
 data|050|sunmeter-default|Sunmeter|Sunmeter|Sunmeter Solarimeter||iif/sunmeter/default|modbus-default|true
+data|050|szyft-sht20|SZYFT|SHT20|RS485 Tempereture/Humidity Sensor||iif/szytf/sht20|modbus-default|true
 data|050|tecnint-ems-sau-mbs|Tecnint|EMS-SAU-MBS|Tecnint EMS Stringbox||iif/tecnint/ems-sau-mbs|modbus-default|true
 data|000|a-teltonika-router|Teltonika|RUTXXX|SIM ID Traffic Stats Monitoring||iif/teltonika/RUTXXX||true
 data|050|tem-sb-16|TEM|SB-16|TEM SB-16 Stringbox||iif/tem/sb-16|modbus-default|true
