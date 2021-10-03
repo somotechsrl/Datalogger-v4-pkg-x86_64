@@ -77,6 +77,7 @@ data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-
 data|050|qen-emu-2it|QEn|EMU-2IT|QEN QE EMU 2IT||iif/qen/emu-2it|modbus-default|true
 data|050|qen-emu-3ea|QEn|EMU-3EA|QEN QE EMU 3EA||iif/qen/emu-3ea|modbus-default|true
 data|050|qen-qe|QEn|QE|QEN QE System||iif/qen/qe|modbus-default|true
+data|050|qen-upm209|QEn|UPM209|QEN QE UPM209||iif/qen/upm209|modbus-default|true
 data|050|raspi-backup|Raspberry|Backup|Datalogger Config Backup||iif/raspi/backup||true
 data|050|raspi|Raspberry|Diagnostic|Datalogger Disagnostics||iif/raspi/default||false
 data|050|refusol-default|Refusol|Inverters|Refusol Inverters||iif/refusol/default||true
