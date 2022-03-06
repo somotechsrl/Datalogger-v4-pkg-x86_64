@@ -53,6 +53,8 @@ data|050|friem-recon-std|Friem|Recon STD|Friem Recon Modbus via RS232||iif/friem
 data|050|fronius-default|Fronius|Fronius|Direct access via Fronius Proto||iif/fronius/default||true
 data|050|fronius-dm|Fronius|Datamanager (Modbus)|Datamanager Board via Modbus||iif/fronius/dm|modbus-default|true
 data|050|fronius-web|Fronius|Datamanager (JSON)|Datamanager Board via REST HTTP||iif/fronius/web||true
+data|000|fruit-player|Modbus|player|X Player for Video||iif/fruit/player||true
+data|000|fruit-sync|Fruit|sync|Sync modulef for Video||iif/fruit/sync||true
 data|050|gavazzi-wm3-96|Gavazzi|WM3-96|3P Network Analyzer||iif/gavazzi/wm3-96|modbus-default|true
 data|050|huawei-default|HUAWEI|Inverters|HUAWEI Inverters||iif/huawei/default|modbus-default|true
 data|050|icstation-icse012A|ICStation|ICSE012A|Modulo di comando a 4 Relay||iif/icstation/icse012A||true
