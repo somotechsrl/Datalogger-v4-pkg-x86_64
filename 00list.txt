@@ -76,6 +76,7 @@ data|050|modbus-default|Modbus|Default|Modbus Base Query Wrapper||iif/modbus/def
 data|050|modbus-poll|Modbus|Poll|Modbus Aggressive Poll Wrapper||iif/modbus/poll||true
 data|050|netserial-default|Generico|NetSerial|COnnettore TCP per porta seriale||iif/netserial/default||true
 data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-default|true
+data|050|qen-dmg210|QEn|DMG210|QEN QE DMG210||iif/qen/dmg210|modbus-default|true
 data|050|qen-emu-2it|QEn|EMU-2IT|QEN QE EMU 2IT||iif/qen/emu-2it|modbus-default|true
 data|050|qen-emu-3ea|QEn|EMU-3EA|QEN QE EMU 3EA||iif/qen/emu-3ea|modbus-default|true
 data|050|qen-qe|QEn|QE|QEN QE System||iif/qen/qe|modbus-default|true
@@ -98,9 +99,11 @@ data|050|sma-sunspec|SMA|Sunspec|SMA Series Inverter w Suspec||iif/sma/sunspec|m
 data|050|socomec-countis|Socomec|Countis|Socomec Countis Energy Meter||iif/socomec/countis|modbus-default|true
 data|050|socomec-default|Socomec|Socomec|Socomec Inverters||iif/socomec/default|modbus-default|true
 data|050|solaredge-sunspec|Solardge|Sunspec|Solaredge Suspec Registers||iif/solaredge/sunspec|modbus-default|true
+data|050|solarlog-modbus|Solarlog|Modbus|Solarlog Modbus Registers||iif/solarlog/modbus|modbus-default|true
 data|050|solarmax2-default|Solarmax|Solarmax2|||iif/solarmax2/default||true
 data|050|solarmax-default|Solarmax|Solarmax1|||iif/solarmax/default||true
 data|050|sunaway-tgxx|Sunaway|TGXX|Sunaway TGXX Inverters||iif/sunaway/tgxx|modbus-default|true
+data|050|sungrow-default|Sungrow|TLK Modbus|TLK Inverters||iif/sungrow/default|modbus-default|true
 data|050|sunguard-sensor|Sunguard|Sensor|Sunguard Sensor Box||iif/sunguard/sensor|modbus-default|true
 data|050|sunguard-stringbox|Sunguard|Stringbox|Sunguard Stringbox||iif/sunguard/stringbox|modbus-default|true
 data|050|sunmeter-default|Sunmeter|Sunmeter|Sunmeter Solarimeter||iif/sunmeter/default|modbus-default|true
