@@ -101,7 +101,7 @@ data|050|socomec-default|Socomec|Socomec|Socomec Inverters||iif/socomec/default|
 data|050|solaredge-sunspec|Solardge|Sunspec|Solaredge Suspec Registers||iif/solaredge/sunspec|modbus-default|true
 data|050|solarlog-modbus|Solarlog|Modbus|Solarlog Modbus Registers||iif/solarlog/modbus|modbus-default|true
 data|050|solarmax2-default|Solarmax|Solarmax2|||iif/solarmax2/default||true
-data|050|solarmax-default|Solarmax|Solarmax1|||iif/solarmax/default||true
+data|050|solarmax-default|Solarmax|Solarmax1|Solarmax Propietary Protocol||iif/solarmax/default||true
 data|050|sunaway-tgxx|Sunaway|TGXX|Sunaway TGXX Inverters||iif/sunaway/tgxx|modbus-default|true
 data|050|sungrow-default|Sungrow|TLK Modbus|TLK Inverters||iif/sungrow/default|modbus-default|true
 data|050|sunguard-sensor|Sunguard|Sensor|Sunguard Sensor Box||iif/sunguard/sensor|modbus-default|true

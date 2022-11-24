@@ -1,6 +1,5 @@
 FIRM='Solarmax'
 MODEL='Solarmax1'
 PROTO='Solarmax'
-DESCR=''
-
+DESCR='Solarmax Propietary Protocol'
 MODULE='solarmax-default'
